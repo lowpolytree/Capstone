@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cone
+  - lock
+  - key
+  - beetle
+  - oak
+  - shell
+  - gingko_b
+  - ginkgko_s
+  - feather_b
+  - feather_s
+  - acorn_b
+  - acorn_s
+  - pearl
+  - right_top
+  - swirl_l
+  - right_bottom
+  - round
+  - left_top
+  - coral
+  - starfish
+  - swirl_r
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
